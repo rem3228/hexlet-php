@@ -1,0 +1,10 @@
+{
+    "name": "remag7/hexlet-php",
+    "authors": [
+        {
+            "name": "Remag Seven",
+            "email": "remag77777777@gmail.com"
+        }
+    ],
+    "require": {}
+}
