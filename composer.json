@@ -6,5 +6,7 @@
             "email": "remag77777777@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^10.48"
+    }
 }
