@@ -1,5 +1,10 @@
 {
     "name": "remag7/hexlet-php",
+    "autoload": {
+        "files": [
+            "src/Runner.php"
+        ]
+    },
     "authors": [
         {
             "name": "Remag Seven",
