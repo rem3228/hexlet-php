@@ -5,6 +5,10 @@
             "src/Runner.php"
         ]
     },
+    "scripts": {
+        "phpcs": "phpcs",
+        "phpcbf": "phpcbf"
+    },
     "authors": [
         {
             "name": "Remag Seven",
@@ -13,5 +17,8 @@
     ],
     "require": {
         "illuminate/collections": "^10.48"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "*"
     }
 }
